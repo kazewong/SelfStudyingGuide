@@ -11,6 +11,10 @@
 
 = The sequence of books to read
 
+== Introduction and Preliminaries
+
+- *Introduction to Mathematical Logic* by Elliott Mendelson
+
 == Analysis
 - *Understanding Analysis* by Stephen Abbott
 - *Elementary Analysis: The Theory of Calculus* by Kenneth A. Ross
@@ -23,22 +27,29 @@
 
 == Statistics, Probability, and Measure Theory
 
-- Probability and Statistics
-- Measure Theory
-- Stochastic Processes
-- Stochastic Calculus
+- *Introduction to Mathematical Statistics* by Robert V. Hogg, Joseph W. McKean, and Allen T. Craig
+- *Probability and Measure* by Patrick Billingsley
+- *Stochastic Calculus for Finance I: The Binomial Asset Pricing Model* by Steven E. Shreve
+- *Stochastic Calculus for Finance II: Continuous-Time Models* by Steven E. Shreve
 
-- Differential Equations
+== Differential Equations
 
-- Geometry
-  - Projective Geometry
-  - Riemannian Geometry
-  - Differential Geometry
-  - Topology
+- *Elementary Differential Equations and Boundary Value Problems* by William E. Boyce and Richard C. DiPrima
+- *Differential Equations, Dynamical Systems, and an Introduction to Chaos* by Morris W. Hirsch, Stephen Smale, and Robert L. Devaney
+- *Partial Differential Equations: An Introduction* by Walter A. Strauss
+- *Stochastic Differential Equations: An Introduction with Applications* by Bernt Øksendal
+
+== Topology and Geometry
+- *Geometry: Euclid and Beyond* by Robin Hartshorne
+- *Introduction to Topological Manifolds* by John M. Lee
+- *Intoduction to Smooth Manifolds* by John M. Lee
+- *Differential Geometry of Curves and Surfaces* by Manfredo P. do Carmo
+- *Multiple view geometry in computer vision* by Richard Hartley and Andrew Zisserman
+
+== Assorted Topics
 - Numerical Analysis
 - Mathematical Optimization
 
 
 
 = Books
-- *Introduction to Mathematical Logic* by Elliott Mendelson
