@@ -13,7 +13,9 @@
 
 == Introduction and Preliminaries
 
+- *Mathematical Proofs: A Transition to Advanced Mathematics* by Gary Chartrand, Albert D. Polimeni, and Ping Zhang
 - *Introduction to Mathematical Logic* by Elliott Mendelson
+
 
 == Analysis
 - *Understanding Analysis* by Stephen Abbott
@@ -22,6 +24,7 @@
 - *Princeton analysis series* by Elias M. Stein and Rami Shakarchi
 
 == Algebra
+- *Linear Algebra Done Right* by Sheldon Axler
 - *Inroduction to Linear Algebra* by Gilbert Strang
 - *Abstract Algebra* by David S. Dummit and Richard M. Foote
 
