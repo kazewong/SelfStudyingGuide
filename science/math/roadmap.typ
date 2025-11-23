@@ -1,13 +1,5 @@
-#set page(
-  paper: "us-letter",
-  header: align(center, text(17pt)[
-    *Roadmap*
-  ]),
-  numbering: "1",
-)
-
 #import "@local/notes:0.1.0": style_template
-#show: doc => style_template(doc,)
+#show: doc => style_template([Roadmap], doc)
 
 = The sequence of books to read
 

@@ -1,13 +1,6 @@
-#set page(
-  paper: "us-letter",
-  header: align(center, text(17pt)[
-    *Roadmap*
-  ]),
-  numbering: "1",
-)
 
 #import "@local/notes:0.1.0": style_template
-#show: doc => style_template(doc,)
+#show: doc => style_template([Roadmap], doc)
 
 = Topics and materials
 
@@ -39,4 +32,3 @@ I select the list of topics broadly following what CMU's undergraduate computer 
 #link("https://www.cs.cmu.edu/~15210/")[15-210	Parallel and Sequential Data Structures and Algorithms]
 
 #link("https://www.cs.cmu.edu/~15451-f24/index.html")[15-451: Algorithm Design and Analysis]
-
