@@ -1,4 +1,13 @@
-#let style_template(doc) = [
+#let style_template(title, doc) = [
+
+  #set page(
+    paper: "us-letter",
+    header: align(center, text(17pt)[
+      #title
+    ]),
+    numbering: "1",
+  )
+
   #set text(
     font: "Times New Roman",
     size: 11pt
@@ -18,7 +27,7 @@
     outset: (y: 3pt),
     radius: 2pt,
   )
-  
+
   #show link: underline
 
   #doc
