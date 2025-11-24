@@ -8,6 +8,9 @@
     numbering: "1",
   )
 
+  #set math.equation(numbering: "(1)")
+
+
   #set text(
     font: "Times New Roman",
     size: 11pt
@@ -29,6 +32,18 @@
   )
 
   #show link: underline
+
+  #show ref: it => {
+    let eq = math.equation
+    let el = it.element
+    // Skip all other references.
+    if el == none or el.func() != eq { return it }
+    // Override equation references.
+    link(el.location(), numbering(
+      el.numbering,
+      ..counter(eq).at(el.location())
+    ))
+  }
 
   #doc
 ]
