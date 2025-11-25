@@ -16,8 +16,10 @@ Overall I think this chapter is important as it introduces the notion of linear 
   - What is span?
   - What is a basis?
   - What is definition of dimension?
-  
+
 == Key results
 
-  
+*Any two bases of a vector space have the same length*
+
+
 == Selected Exercises
