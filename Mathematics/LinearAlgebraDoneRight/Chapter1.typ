@@ -3,6 +3,9 @@
 
 = Vector Spaces
 
+== Summary
+
+
 
 == Key questions
 
