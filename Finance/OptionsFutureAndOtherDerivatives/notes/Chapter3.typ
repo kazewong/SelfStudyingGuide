@@ -37,3 +37,5 @@ Since future contracts are quantized into specific units of underlying asset, we
 To acheive the desired level of hedging, we can cast @hedge_position into the following form:
  $ Delta P &= Delta S - N^* &= Delta S - h^* Q_A/Q_F $
 where $N^*$ is the optimal number of contracts to purchase, and $Q$ is the quantity of underlying asset per contract.
+
+== Hedging index futures and equity portfolios
