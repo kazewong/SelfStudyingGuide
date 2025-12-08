@@ -9,6 +9,8 @@ Unlike other subjects, ML is relatively new, and there is no clear golden path f
 
 Because this is not a course targeting a specific level, the difficulty of each topic may vary significantly. I will indicate the prerequisites needed to understand each note at the top to the best of my ability.
 
+Also, instead of taking an existing implementation, I am going to go hardcore and try to implement things from scratch. The reason behind this decision is implementation changes over time. My goal is to develop insight that can help me understand the topics instead of just making a network trained. 
+
 = Topics
 
 == Optimizer
