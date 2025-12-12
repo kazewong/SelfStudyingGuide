@@ -5,4 +5,17 @@
 
 Kubernetes is a lot, espeically when you are the person who is setting up the cluster, managing it, and writing the app to deploy on it. There are an overwhelming of guides on the internet that goes over many topics related to Kubernetes, such as security, scalability, CI/CD, etc. This guide aims to string together tutorials I find online that goes from setting up a highly available cluster to developing and deploying an app.
 
-Instead of going through each basic concepts such as pod, CRD, the main focus of this guide is to present a practical *workflow*.
+== Basic components for a Kubernetes cluster
+
+- Gateway with Traefik
+- CNI
+- CSI
+- Security
+- KubeRay
+
+== Services for our Kubernetes cluster
+
+- Forgejo
+- Grafana stack
+- Ollama + OpenWebUI
+- FluxCD
